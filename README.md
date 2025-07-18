@@ -17,10 +17,6 @@ A simple, clean, and efficient bookmark manager built with vanilla JavaScript. S
 - **📱 Responsive Design**: Works on desktop and mobile devices
 - **🎨 Clean UI**: Modern, minimalist interface with smooth animations
 
-## 🚀 Demo
-
-![Bookmark Saver Demo](demo-screenshot.png)
-
 ## 📋 How to Use
 
 1. **Add a Bookmark**:
